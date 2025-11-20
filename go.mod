@@ -1,4 +1,4 @@
-module interactive-tournament
+module github.com/sushi30/go-interactive-tournament
 
 go 1.24.0
 
